@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+
+#person:
+#  lastName: 张三
+#  age: 27
+#  boss: false
+#  birth: 2020/01/31
+#  maps: {k1: v1,K2: v2}
+#  lists:
+#    - 赵四
+#    - 赵柳
+#  dog:
+#    name: 小狗
+#    age: 2
