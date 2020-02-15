@@ -9,11 +9,13 @@
         <module name="spring-boot-config" />
         <module name="spring-boot-helloworld" />
         <module name="spring-boot-helloworld-quick" />
+        <module name="spring-boot-activemq" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-activemq" options="-parameters" />
       <module name="spring-boot-config" options="-parameters" />
       <module name="spring-boot-helloworld-quick" options="-parameters" />
     </option>

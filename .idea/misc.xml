@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-helloworld-quick/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-activemq/pom.xml" />
       </list>
     </option>
   </component>
